@@ -52,7 +52,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Diverse Opportunities:** The job titles themselves show great variety, from "Data Analyst" to "Director of Analytics," indicating the depth of specialization and opportunities within the field.
 - **Title Diversity:** The array of companies offering these salaries is diverse, encompassing Mantys, Anthropic, and Meta, demonstrating that high pay can be found in various corners of the tech industry.
 
-![Top Paying Roles](assets\top_paying_roles.png)
+![Top Paying Roles](assets/top_paying_roles.png)
 *Bar graph visualizing the salary for top the top 10 salaries for data analyst located in California; I used Excel to generate this graph from my SQL query results.*
 ### 2. Skills for Top-Paying Data Analyst Jobs
 To understand the skill set behind these lucrative data analyst roles, I pulled the top-paying jobs from my initial search and joined them with the related skills data. This SQL query connected the high salaries to the specific skills needed for each role, painting a clearer picture of the technical and analytical competencies commanding premium pay in the market.
@@ -93,7 +93,7 @@ The results were telling:
 - **Skill Variance Across Roles:** There was a notable variance in skills among different job titles. For instance, Data Analyst positions emphasized Python and SQL, whereas roles like "Analytics Director" and "Data & Intelligence Manager" often required a broader skill set, including data visualization tools like Tableau and business intelligence platforms like Power BI.
 - **Tech-Savvy Employers:** The high-paying roles are available at tech-centric companies like Anthropic, Meta, and TikTok, which tend to look for candidates with a strong foundation in programming, data manipulation, and visualization skills.
 
-![Top Skills](assets\top_skills_required.png)
+![Top Skills](assets/top_skills_required.png)
 *The analysis of these skills not only informs about what employers are currently seeking but also serves as a guide for professionals aiming to enter the top tiers of the data analyst job market.*
 ### 3. Most In-Demand Skills for Data Analysts
 To zero in on the skills most sought after by employers for data analyst positions, I executed a SQL query to aggregate and count the frequency of each skill mentioned across job listings. The focus was on full-time roles in California or remote positions posted in 2023. This approach not only identifies the most in-demand skills but also quantifies their demand, providing a clear indicator of what skills data analysts should prioritize.
