@@ -262,6 +262,7 @@ Key findings include:
 | 215      | flow         | 57           | $110,400       |
 | 4        | java         | 31           | $110,100       |
 | 233      | jira         | 31           | $109,207       |
+
 *This comprehensive look at skill demand and salary implications offers data analysts clear directions on skill development priorities, highlighting the areas most likely to lead to lucrative opportunities in today's job market.*
 # What I Learned
 Diving into the data analyst job market, my SQL-driven analysis unveiled several key insights that not only refined my understanding of the field but also illuminated the path for future learning and career development. Here's a snapshot of the pivotal learnings:
